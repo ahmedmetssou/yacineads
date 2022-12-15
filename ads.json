@@ -1,7 +1,7 @@
 {
   "status": "ok",
 
-  "data_json_link": "https://json.irondev.ma/test/data_the_stream.json",
+  "data_json_link": "https://raw.githubusercontent.com/ahmedmetssou/yacineads/main/data.json",
 
   "app": {
     "status": 1,
