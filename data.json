@@ -1,29 +1,29 @@
 {
-    "status": "ok",
-    "banner": {
-      "show": true,
-      "image": "https://img.freepik.com/free-vector/software-testing-banner_80328-15.jpg",
-      "external_url": "https://irondev.ma/"
-    },
-    "categories": [
-      {
-        "cid": "1",
-        "category_name": "Automotive",
-        "category_image": "https://www.freepnglogos.com/uploads/hacker-png/hacker-computer-icons-4.png"
-      }
-    ],
-    "channels": [
-      {
-        "channel_id": 1,
-        "category_id": 2,
-        "channel_name": "What care can you get for a grand?",
-        "channel_image": "https://est.irondev.ma/the_stream/upload/1625126143_WhatCarCanYouGetForAGrand.jpg",
-        "channel_url": "http:",
-        "channel_description": "in",
-        "channel_type": "URL",
-        "video_id": "",
-        "category_name": "Automotive",
-        "user_agent": "default"
-      }
-    ]
-  }
+  "status": "ok",
+  "banner": {
+    "show": true,
+    "image": "https://img.freepik.com/free-vector/software-testing-banner_80328-15.jpg",
+    "external_url": "https://irondev.ma/"
+  },
+  "categories": [
+    {
+      "cid": "1",
+      "category_name": "Automotive",
+      "category_image": "https://www.freepnglogos.com/uploads/hacker-png/hacker-computer-icons-4.png"
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 1,
+      "category_id": 2,
+      "channel_name": "What care can you get for a grand?",
+      "channel_image": "https://est.irondev.ma/the_stream/upload/1625126143_WhatCarCanYouGetForAGrand.jpg",
+      "channel_url": "http:",
+      "channel_description": "in",
+      "channel_type": "URL",
+      "video_id": "",
+      "category_name": "Automotive",
+      "user_agent": "default"
+    }
+  ]
+}
